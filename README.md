@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chotudevil1
+- 👋 Hi, I’m Vedant Jawanjal
 - 👀 I’m interested in data science, data analysis, and automation.
 - 🌱 I’m currently learning advanced machine learning techniques and cloud computing.
 - 💞️ I’m looking to collaborate on data-related projects or automation tasks.
